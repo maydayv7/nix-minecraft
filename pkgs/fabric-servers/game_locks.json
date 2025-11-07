@@ -2133,5 +2133,115 @@
     "libraries": [
       "net.fabricmc:intermediary:1.21.8"
     ]
+  },
+  "25w45a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w45a"
+    ]
+  },
+  "25w44a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w44a"
+    ]
+  },
+  "25w43a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w43a"
+    ]
+  },
+  "25w42a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w42a"
+    ]
+  },
+  "25w41a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w41a"
+    ]
+  },
+  "1.21.10": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21.10"
+    ]
+  },
+  "1.21.10-rc1": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21.10-rc1"
+    ]
+  },
+  "1.21.9": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21.9"
+    ]
+  },
+  "1.21.9-rc1": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21.9-rc1"
+    ]
+  },
+  "1.21.9-pre4": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21.9-pre4"
+    ]
+  },
+  "1.21.9-pre3": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21.9-pre3"
+    ]
+  },
+  "1.21.9-pre2": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21.9-pre2"
+    ]
+  },
+  "1.21.9-pre1": {
+    "libraries": [
+      "net.fabricmc:intermediary:1.21.9-pre1"
+    ]
+  },
+  "25w37a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w37a"
+    ]
+  },
+  "25w36b": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w36b"
+    ]
+  },
+  "25w36a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w36a"
+    ]
+  },
+  "25w35a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w35a"
+    ]
+  },
+  "25w34b": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w34b"
+    ]
+  },
+  "25w34a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w34a"
+    ]
+  },
+  "25w33a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w33a"
+    ]
+  },
+  "25w32a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w32a"
+    ]
+  },
+  "25w31a": {
+    "libraries": [
+      "net.fabricmc:intermediary:25w31a"
+    ]
   }
 }
